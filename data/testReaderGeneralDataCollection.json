@@ -1,0 +1,14 @@
+{
+    "name": "My Data Collection",
+    "datasets": [
+      {
+        "name": "Dataset1",
+        "data": [1.1, 2.2, 3.3]
+      },
+      {
+        "name": "Dataset2",
+        "data": [4.4, 5.5, 6.6]
+      }
+    ]
+  }
+  
