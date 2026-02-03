@@ -1,11 +1,12 @@
-# Normal Distribution Model
+# Normal Distribution Model 
+*100+ commits from student account, ported to personal*
 
 ## Statistical analysis of normal data
 
 **Key computational functionality:**
 
 - Read a given CSV
-- Compute mean, standard deviation, varience, and summary statistics of data
+- Compute mean, standard deviation, variance, and summary statistics of data
 - Compute cumulative distribiution and quantile
 
 **Key graphical functionality:**
